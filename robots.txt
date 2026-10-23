@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://volos4uk.github.io/irregular-verbs/sitemap.xml
